@@ -47,12 +47,5 @@ npm run dev ( This will start both the client and server simultaneoulsy)
   - [x] **Models :** Contains the basic schema structure of the quote
   - [x] **Connection :** Contains database connection related configuration
 
-## APP Screenshots (UI)
 
-Screens of the Web APP <br />
-<img src="screenshots/1.png" alt="one" />
-<img src="screenshots/2.png" alt="one" />
-<img src="screenshots/3.png" alt="one" />
-<img src="screenshots/4.png" alt="one" />
-
-## It was fun working on the assignment , looking forward to hear fron you soon thank you
+## It was fun working on the assignment , looking forward to hear from you soon thank you
